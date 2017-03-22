@@ -42,7 +42,7 @@ browser window.
     <!-- 'nocache.js' file (also called a "selection script") is     -->
     <!-- produced by the GWT compiler in the module output directory -->
     <!-- or generated automatically in development mode.             -->
-    <script language="javascript" src="calendar/calendar.nocache.js"></script>
+    <script type="text/javascript" src="calendar/calendar.nocache.js"></script>
     
     <!-- Include a history iframe to enable full GWT history support -->
     <!-- (the id must be exactly as shown)                           -->
